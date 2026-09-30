@@ -1,0 +1,13 @@
+{
+  "name": "krishimarg-sih",
+  "version": "1.0.0",
+  "description": "KrishiMarg — SIH Smart Logistics Feasibility & Net Realization Platform",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "dev": "npm run server"
+  },
+  "keywords": ["krishimarg", "sih", "agritech", "logistics", "net-realization"],
+  "author": "SIH Team",
+  "license": "ISC"
+}
